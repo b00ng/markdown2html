@@ -13,3 +13,6 @@
     }
   ]
 }
+
+# Created/Modified files during execution:
+print("vercel.json")
